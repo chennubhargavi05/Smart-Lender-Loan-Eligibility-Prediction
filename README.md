@@ -106,13 +106,15 @@ http://127.0.0.1:5000
 
 ### Home Page
 
-(Add screenshot here)
+![Home Page](screenshots/home.png)
 
-### Prediction Result
+### Loan Approved
 
-(Add screenshot here)
+![Approved](screenshots/approved.png)
 
----
+### Loan Rejected
+
+![Rejected](screenshots/rejected.png)
 
 ## 🎯 Future Enhancements
 
